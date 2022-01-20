@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d184fa3-0006-48d0-9863-a5f7ba8d1bf4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="DONT_SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1mFjyoXoNuuOm6DWhbTBlxayZE8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="D:/OpenServer/domains/rpg_project" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\project\chat_bot_mus\Factory" />
+      <recent name="C:\Programming\project\chat_bot_mus\config" />
+      <recent name="C:\Programming\project\chat_bot_mus\Database\Interface" />
+      <recent name="C:\Programming\project\chat_bot_mus\doc" />
+      <recent name="C:\Programming\project\chat_bot_mus\Database" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d184fa3-0006-48d0-9863-a5f7ba8d1bf4" name="Default Changelist" comment="" />
+      <created>1609096489530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609096489530</updated>
+      <workItem from="1609096490721" duration="5416000" />
+      <workItem from="1609960453761" duration="8288000" />
+      <workItem from="1610036247132" duration="12707000" />
+      <workItem from="1610117017555" duration="17654000" />
+      <workItem from="1610310385543" duration="7754000" />
+      <workItem from="1610429235305" duration="13063000" />
+      <workItem from="1610568113367" duration="7117000" />
+      <workItem from="1610638051766" duration="4271000" />
+      <workItem from="1610685737264" duration="3819000" />
+      <workItem from="1610695107728" duration="1783000" />
+      <workItem from="1611114361642" duration="8625000" />
+      <workItem from="1611203242005" duration="23493000" />
+      <workItem from="1612098174060" duration="6783000" />
+      <workItem from="1612544239124" duration="7037000" />
+      <workItem from="1612605424818" duration="10519000" />
+      <workItem from="1612701140459" duration="2553000" />
+      <workItem from="1612865403844" duration="7219000" />
+      <workItem from="1613211383413" duration="8352000" />
+      <workItem from="1613304670789" duration="3542000" />
+      <workItem from="1613385356185" duration="5637000" />
+      <workItem from="1613755117127" duration="11624000" />
+      <workItem from="1614425070230" duration="1156000" />
+      <workItem from="1614775137034" duration="9469000" />
+      <workItem from="1614862513212" duration="5717000" />
+      <workItem from="1615206109765" duration="80000" />
+      <workItem from="1615310722986" duration="3154000" />
+      <workItem from="1615371921404" duration="8268000" />
+      <workItem from="1615547351513" duration="7408000" />
+      <workItem from="1615756646347" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="198" key="#Deployment" timestamp="1609096817949">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="198" key="#Deployment/62.0.1858.1080@62.0.1858.1080" timestamp="1609096817949" />
+    <state x="367" y="381" key="#SQL_Dialects" timestamp="1612544804737">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="367" y="381" key="#SQL_Dialects/62.0.1858.1080@62.0.1858.1080" timestamp="1612544804737" />
+    <state x="583" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614776327555">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1614776327555" />
+    <state x="674" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1615313716674">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="674" y="342" key="#com.intellij.fileTypes.FileTypeChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1615313716674" />
+    <state x="1056" y="270" key="#com.intellij.ide.util.MemberChooser" timestamp="1613386189534">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1056" y="270" key="#com.intellij.ide.util.MemberChooser/62.0.1858.1080@62.0.1858.1080" timestamp="1613386189534" />
+    <state x="353" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609965545559">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="353" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1609965545559" />
+    <state x="721" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615548197750">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="721" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1615548197750" />
+    <state x="771" y="295" width="652" height="518" key="FileChooserDialogImpl" timestamp="1615756679483">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="295" width="652" height="518" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1615756679483" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1614775460414">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/62.0.1858.1080@62.0.1858.1080" timestamp="1614775460414" />
+    <state x="1093" y="331" key="NewPhpClassDialog" timestamp="1614781216580">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1093" y="331" key="NewPhpClassDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1614781216580" />
+    <state x="825" y="463" key="NewPhpFileDialog" timestamp="1615548931734">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="825" y="463" key="NewPhpFileDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1615548931734" />
+    <state x="545" y="321" key="SettingsEditor" timestamp="1614775657652">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="545" y="321" key="SettingsEditor/62.0.1858.1080@62.0.1858.1080" timestamp="1614775657652" />
+    <state x="819" y="270" key="ftp.server.browser" timestamp="1612610366442">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="819" y="270" key="ftp.server.browser/62.0.1858.1080@62.0.1858.1080" timestamp="1612610366442" />
+    <state x="812" y="311" key="refactoring.ChangeSignatureDialog" timestamp="1610059775370">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="812" y="311" key="refactoring.ChangeSignatureDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1610059775370" />
+    <state x="647" y="250" key="run.anything.popup" timestamp="1615583898043">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="647" y="250" key="run.anything.popup/62.0.1858.1080@62.0.1858.1080" timestamp="1615583898043" />
+  </component>
+</project>
